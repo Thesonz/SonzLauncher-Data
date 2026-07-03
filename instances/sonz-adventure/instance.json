@@ -10,13 +10,5 @@
   "serverAddress": "",
   "ramMb": 4096,
   "files": [],
-  "worlds": [
-    {
-      "name": "Aventure principale",
-      "source": "instances/sonz-adventure/worlds/aventure-principale.zip",
-      "destination": "saves/Aventure principale",
-      "sha256": "5192a4eef3424c6b31947ef12f65d48b08e34ef035e59618894928189b52d106",
-      "installMode": "once"
-    }
-  ]
+  "worlds": []
 }
