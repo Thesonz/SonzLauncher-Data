@@ -21,7 +21,7 @@
                        "name":  "Aventure principale",
                        "source":  "instances/sonz-adventure/worlds/aventure-principale.zip",
                        "destination":  "saves",
-                       "sha256":  "9475e3d1bd6b723c557ab78b909679bd07f8fa97d5088077cdf9e7847a897ae0",
+                       "sha256":  "32d3fb79dbfa2762a47a7cb0a55c6a48f98272f23331aa6184d9cf19ed697757",
                        "installMode":  "once"
                    }
                ]
