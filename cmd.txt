@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File generate-hashes.ps1 -InstanceId sonz-adventure
