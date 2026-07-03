@@ -1,0 +1,19 @@
+{
+  "creator": {
+    "uuid": "a6ccee2591c9464690b58e0433a1ef9d",
+    "username": "Thesonz"
+  },
+  "coCreators": [],
+  "id": "testsonz",
+  "name": "testsonz",
+  "minecraftVersion": "1.20.4",
+  "loader": {
+    "type": "vanilla",
+    "version": ""
+  },
+  "icon": "instances/testsonz/icon.png",
+  "serverAddress": "",
+  "ramMb": 4096,
+  "files": [],
+  "worlds": []
+}

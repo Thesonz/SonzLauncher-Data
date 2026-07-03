@@ -3,6 +3,10 @@
     {
       "id": "sonz-adventure",
       "manifest": "instances/sonz-adventure/instance.json"
+    },
+    {
+      "id": "testsonz",
+      "manifest": "instances/testsonz/instance.json"
     }
   ]
 }
