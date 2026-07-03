@@ -1,0 +1,25 @@
+{
+  "manifestVersion": 1,
+  "instances": [
+    {
+      "id": "sonz-adventure",
+      "name": "Sonz Adventure",
+      "minecraftVersion": "1.20.1",
+      "loader": {
+        "type": "forge",
+        "version": "47.2.0"
+      },
+      "imageUrl": "https://github.com/TON_COMPTE/SonzLauncher-Data/releases/download/v1/sonz-adventure.jpg",
+      "serverAddress": "",
+      "ramMb": 4096,
+      "files": [
+        {
+          "path": "mods/exemple.jar",
+          "url": "https://github.com/TON_COMPTE/SonzLauncher-Data/releases/download/v1/exemple.jar",
+          "sha256": "HASH_SHA256_ICI",
+          "required": true
+        }
+      ]
+    }
+  ]
+}
