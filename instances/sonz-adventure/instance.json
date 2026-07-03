@@ -8,6 +8,10 @@
     "version": "0.16.10"
     },
 
+    "icon": "instances/sonz-adventure/icon.jpg",
+    "serverAddress": "",
+    "ramMb": 4096,
+
     "files":  [
                   {
                       "path":  "resourcepacks/guiretextures.zip",
