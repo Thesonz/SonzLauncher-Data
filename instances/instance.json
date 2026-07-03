@@ -1,0 +1,17 @@
+{
+  "id": "sonz-adventure",
+  "name": "Sonz Adventure",
+  "minecraftVersion": "1.20.1",
+
+
+
+  "worlds": [
+    {
+      "name": "Aventure principale",
+      "source": "instances/sonz-adventure/worlds/aventure-principale.zip",
+      "destination": "saves/Aventure principale",
+      "sha256": "HASH_SHA256",
+      "installMode": "once"
+    }
+  ]
+}
