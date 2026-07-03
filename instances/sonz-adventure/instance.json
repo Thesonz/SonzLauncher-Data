@@ -6,7 +6,7 @@
     "loader": {
     "type": "fabric",
     "version": "0.16.10"
-    }
+    },
 
     "files":  [
                   {
