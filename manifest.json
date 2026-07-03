@@ -9,13 +9,13 @@
         "type": "forge",
         "version": "47.2.0"
       },
-      "imageUrl": "https://github.com/TON_COMPTE/SonzLauncher-Data/releases/download/v1/sonz-adventure.jpg",
+      "imageUrl": "https://github.com/Thesonz/SonzLauncher-Data/releases/download/v1/sonz-adventure.jpg",
       "serverAddress": "",
       "ramMb": 4096,
       "files": [
         {
           "path": "mods/exemple.jar",
-          "url": "https://github.com/TON_COMPTE/SonzLauncher-Data/releases/download/v1/exemple.jar",
+          "url": "https://github.com/Thesonz/SonzLauncher-Data/releases/download/v1/exemple.jar",
           "sha256": "HASH_SHA256_ICI",
           "required": true
         }
