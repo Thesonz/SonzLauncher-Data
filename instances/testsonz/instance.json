@@ -5,7 +5,7 @@
   },
   "coCreators": [],
   "id": "testsonz",
-  "name": "testsonz",
+  "name": "testsonzv1",
   "minecraftVersion": "1.20.4",
   "loader": {
     "type": "vanilla",
@@ -13,7 +13,7 @@
   },
   "icon": "instances/testsonz/icon.png",
   "serverAddress": "",
-  "ramMb": 6144,
+  "ramMb": 4096,
   "files": [],
   "worlds": []
 }
