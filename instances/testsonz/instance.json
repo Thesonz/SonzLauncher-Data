@@ -13,7 +13,7 @@
   },
   "icon": "instances/testsonz/icon.png",
   "serverAddress": "",
-  "ramMb": 4096,
+  "ramMb": 6144,
   "files": [],
   "worlds": []
 }
