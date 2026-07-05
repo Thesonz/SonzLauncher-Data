@@ -5,13 +5,13 @@
   },
   "coCreators": [],
   "id": "testsonz",
-  "name": "testsonzv1cacav2",
+  "name": "testsonzv1caca",
   "minecraftVersion": "1.20.4",
   "loader": {
     "type": "vanilla",
     "version": ""
   },
-  "icon": "instances/testsonz/icon.png",
+  "icon": "instances/testsonz/icon.jpg",
   "serverAddress": "",
   "ramMb": 4096,
   "files": [],
