@@ -7,6 +7,10 @@
     {
       "id": "testsonz",
       "manifest": "instances/testsonz/instance.json"
+    },
+    {
+      "id": "test-forge",
+      "manifest": "instances/test-forge/instance.json"
     }
   ]
 }

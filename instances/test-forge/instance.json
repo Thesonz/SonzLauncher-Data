@@ -1,0 +1,19 @@
+{
+  "creator": {
+    "uuid": "a6ccee2591c9464690b58e0433a1ef9d",
+    "username": "Thesonz"
+  },
+  "coCreators": [],
+  "id": "test-forge",
+  "name": "Test Forge",
+  "minecraftVersion": "1.21.1",
+  "loader": {
+    "type": "forge",
+    "version": "52.1.14"
+  },
+  "icon": "instances/test-forge/icon-1783219630656.png",
+  "serverAddress": "",
+  "ramMb": 4096,
+  "files": [],
+  "worlds": []
+}
