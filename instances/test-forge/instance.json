@@ -3,7 +3,12 @@
     "uuid": "a6ccee2591c9464690b58e0433a1ef9d",
     "username": "Thesonz"
   },
-  "coCreators": [],
+  "coCreators": [
+    {
+      "uuid": "7651599c29574e2492a2ad9723ff0b15",
+      "username": "ProoZenn"
+    }
+  ],
   "id": "test-forge",
   "name": "Test Forge",
   "minecraftVersion": "1.21.1",
