@@ -3,12 +3,7 @@
     "uuid": "a6ccee2591c9464690b58e0433a1ef9d",
     "username": "Thesonz"
   },
-  "coCreators": [
-    {
-      "uuid": "7651599c29574e2492a2ad9723ff0b15",
-      "username": "ProoZenn"
-    }
-  ],
+  "coCreators": [],
   "id": "test-forge",
   "name": "Test Forge",
   "minecraftVersion": "1.21.1",
@@ -19,6 +14,12 @@
   "icon": "instances/test-forge/icon-1783219630656.png",
   "serverAddress": "",
   "ramMb": 4096,
-  "files": [],
+  "files": [
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.19.jar",
+      "source": "instances/test-forge/mods/waystones-neoforge-1.21.1-21.1.19.jar",
+      "sha256": "18a2cc4a4d868f079b47818f98ac2031341760f15cbb088548f5d5300eefa817"
+    }
+  ],
   "worlds": []
 }
