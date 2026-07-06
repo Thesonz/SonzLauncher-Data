@@ -14,6 +14,12 @@
   "icon": "instances/test-forge/icon-1783219630656.png",
   "serverAddress": "",
   "ramMb": 4096,
-  "files": [],
+  "files": [
+    {
+      "path": "mods/waystones-neoforge-1.21.1-21.1.19.jar",
+      "source": "instances/test-forge/mods/waystones-neoforge-1.21.1-21.1.19.jar",
+      "sha256": "18a2cc4a4d868f079b47818f98ac2031341760f15cbb088548f5d5300eefa817"
+    }
+  ],
   "worlds": []
 }
